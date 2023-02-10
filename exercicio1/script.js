@@ -1,3 +1,4 @@
+
 // Exercicio 1 feito
 const nomeUsuario = prompt('Digite seu nome: ')
 const comidaFavorita1 = prompt('Sua comida favorita: ')
